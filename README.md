@@ -33,5 +33,5 @@ This website is an ecommerce website for buying, selling fashion clothes and acc
  - View leaderboard of users and products
 # Database design![db](https://github.com/nmp100504/PRJ301HE180549/assets/65839172/e301800f-7397-425f-a3ec-e5ffaff58bd4)
 
-## Relationship Diagram
+
 
